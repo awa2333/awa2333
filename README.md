@@ -37,7 +37,7 @@ Nixpkgs打包维护和科学计算开源工具链**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awa2333&show_icons=true&locale=en" alt="awa2333" /></p>
 
 <picture>
-    <source media="(prefers-color-schema: dark)" srcset="https://raw.githubusercontent.com/awa2333/awa2333/output/github-contribution-grid-snake-dark.svg"
-    <source media="(prefers-color-schema: light)" srcset="https://raw.githubusercontent.com/awa2333/awa2333/output/github-contribution-grid-snake.svg"
-    <img alt="github-snake" src="https://raw.githubusercontent.com/awa2333/awa2333/output/github-contribution-grid-snake.svg"
+    <source media="(prefers-color-schema: dark)" srcset="https://raw.githubusercontent.com/awa2333/awa2333/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-schema: light)" srcset="https://raw.githubusercontent.com/awa2333/awa2333/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/awa2333/awa2333/output/github-contribution-grid-snake.svg">
 </picture>
