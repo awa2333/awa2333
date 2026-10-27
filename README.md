@@ -2,25 +2,20 @@
 
 ## A passionate Nix developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awa2333&label=Profile views&color=0e75b6&style=flat" alt="awa2333" /> </p>
+![awa2333](https://komarev.com/ghpvc/?username=awa2333&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I'm currently working on **3D Gaussian Splatring (3DGS), and Nixpkgs packaging.
-3D高斯溅射与辐射场重建，Nixpkgs打包。**
+- 🔭 I'm currently working on **3D Gaussian Splatring (3DGS), and Nixpkgs packaging.**
 
-- 🌱 I'm currently learning **3D Modeling & 3D Reconstruction, and 3D Gaussian Splatting.
-3D建模与三维重建以及三维高斯高精度渲染。**
+- 🌱 I'm currently learning **3D Modeling & 3D Reconstruction, and 3D Gaussian Splatting.**
 
 - 👯 I'm looking to collaborate on **Nixpkgs packageing
-and scientific computing tools. Nixpkgs打包维护和科学计算开源工具链**
+and scientific computing tools.**
 
 - 🤝 I'm looking for help with **Fixing CUDA dependency drift on Nixpkgs master,
-and neural network implementation in Haskell.
-解决Nixpkgs master分支CUDA依赖冲突以及Haskell纯函数神经网络实现与优化**
+and neural network implementation in Haskell.**
 
 - 💬 Ask me about **Nix/NixOS, Haskell, Neovim, Typst academic typesetting,
-and terminal TUIs.
-
-**
+and terminal TUIs.**
 
 - ⚡ Fun fact **Claimed to be AI defeatist, but implemented backpropagation from
 scratch in Haskell.**
